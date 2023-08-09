@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>143845314582-l1v6uq1gkcn8v5hqf4envj3r7ome480p.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.143845314582-l1v6uq1gkcn8v5hqf4envj3r7ome480p</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAGER8sZ_-PoX080xQ2H5-p0xOtbhCf3iw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>143845314582</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.budgetMakerApp</string>
+	<key>PROJECT_ID</key>
+	<string>budget-maker-f62b3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>budget-maker-f62b3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:143845314582:ios:8f0e31731df966df352537</string>
+	<key>DATABASE_URL</key>
+	<string>https://budget-maker-f62b3-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

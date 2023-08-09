@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "143845314582",
+    "firebase_url": "https://budget-maker-f62b3-default-rtdb.firebaseio.com",
+    "project_id": "budget-maker-f62b3",
+    "storage_bucket": "budget-maker-f62b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143845314582:android:92f034ac3dcdaf2d352537",
+        "android_client_info": {
+          "package_name": "com.example.budget_maker_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143845314582-48120tug9amfgo33mfocgoopu3o9qc5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCita7huuw8_ayh7m8YLXMkOq1BtTpKONs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143845314582-48120tug9amfgo33mfocgoopu3o9qc5j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "143845314582-l1v6uq1gkcn8v5hqf4envj3r7ome480p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.budgetMakerApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
